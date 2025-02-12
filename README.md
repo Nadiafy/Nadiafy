@@ -3,7 +3,7 @@
 - 🌱 I’m currently working as a junior front-end devepoler
 - 💞️ I’m looking to collaborate on both fields
 - 📫 How to reach me 
-https://www.linkedin.com/in/nadia-farokhpay-a4b9721a4
+https://www.linkedin.com/in/nadia-farokhpay
 
 <!---
 Nadiafy/Nadiafy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
