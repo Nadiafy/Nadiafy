@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @Nadiafy
-- 👀 I’m interested in web development and data science 
-- 🌱 I’m currently working as a junior front-end devepoler
-- 💞️ I’m looking to collaborate on both fields
-- 📫 How to reach me 
-https://www.linkedin.com/in/nadia-farokhpay
-
-<!---
-Nadiafy/Nadiafy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Nadia Farokhpay (@Nadiafy)  
+🎓 Master’s student in Artificial Intelligence at the University of Bologna  
+💻 Interested in front-end development (Nuxt.js, Vue) and data science (Python, ML, NLP)  
+🤝 Open to collaborating on AI projects, web-based ML tools, and educational content  
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/nadia-farokhpay)
